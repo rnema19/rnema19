@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Nema</h1>
-<h3 align="center">A passionate frontend developer and aspiring Software Engineer from India.
+<h3 align="center">A passionate fullstack developer and aspiring Software Engineer from India.
   I'm a final year Engineering student at VNIT Nagpur.
   Working hard and developing new skills with enthusiasm.
   My expertise includes in fields of : analysis, LLMS, Data Structures and Algorithms and Web Development.
